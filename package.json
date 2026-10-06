@@ -1,0 +1,12 @@
+{
+  "name": "marsgamme",
+  "version": "1.0.0",
+  "description": "Serviço Node.js simples para demonstrar integração com Backstage",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
