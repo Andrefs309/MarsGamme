@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: meu-servico
+  name: MarsGamme
   description: Serviço de exemplo para demonstrar o Backstage
   annotations:
     github.com/project-slug: Andrefs309/MarsGamme
